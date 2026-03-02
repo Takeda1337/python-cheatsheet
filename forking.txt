@@ -1,2 +1,3 @@
 change number 1 in branch2
 change number 2 in branch2
+change number 3 in branch2
